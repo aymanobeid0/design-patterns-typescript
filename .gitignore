@@ -1,0 +1,10 @@
+//ignore node modules
+node_modules
+//ignore build files
+dist
+//ignore environment files
+.env
+//ignore log files
+logs
+//ignore coverage reports
+coverage
